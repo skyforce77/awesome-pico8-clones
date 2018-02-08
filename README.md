@@ -51,6 +51,11 @@
 
 ## M
 
+### Mario Kart
+![](https://www.lexaloffle.com/bbs/thumbs/pico17953.png)
+
+[PicoKart](https://www.lexaloffle.com/bbs/?tid=2886)
+
 ### Megaman
 ![](https://www.lexaloffle.com/bbs/thumbs/pico38515.png)
 
