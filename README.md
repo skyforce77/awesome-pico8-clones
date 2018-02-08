@@ -172,6 +172,11 @@
 
 [Picotris Attack](https://www.lexaloffle.com/bbs/?tid=2925)
 
+### The Legend of Zelda
+![](https://www.lexaloffle.com/bbs/thumbs/pico39950.png)
+
+[The Story of Zeldo](https://www.lexaloffle.com/bbs/?pid=39951)
+
 ## U
 
 ## V
