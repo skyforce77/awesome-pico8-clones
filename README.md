@@ -34,6 +34,11 @@
 
 [Pico Empires](https://www.lexaloffle.com/bbs/?tid=30453)
 
+### Asteroids
+![](https://www.lexaloffle.com/bbs/thumbs/pico44008.png)
+
+[Asteroids](https://www.lexaloffle.com/bbs/?tid=29903)
+
 ## B
 
 ### Black Emperor
