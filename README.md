@@ -36,6 +36,11 @@
 
 ## B
 
+### Black Emperor
+![](https://www.lexaloffle.com/bbs/thumbs/pico47849.png)
+
+[8bit Emperor](https://www.lexaloffle.com/bbs/?tid=30551)
+
 ### Bomberman
 ![](https://www.lexaloffle.com/bbs/thumbs/pico17128.png)
 
