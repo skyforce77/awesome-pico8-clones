@@ -64,6 +64,11 @@
 
 [DeFacto](https://www.lexaloffle.com/bbs/?uid=11048)
 
+### Flappy bird
+![](https://www.lexaloffle.com/bbs/thumbs/pico41290.png)
+
+[Flappy bee](https://www.lexaloffle.com/bbs/?pid=41291)
+
 ## G
 
 ### Galaga
