@@ -120,7 +120,7 @@
 
 ## T
 
-### Tetris
+### Tetris Attack
 ![](https://www.lexaloffle.com/bbs/thumbs/pico37969.png)
 
 [Picotris Attack](https://www.lexaloffle.com/bbs/?tid=2925)
