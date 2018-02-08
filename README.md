@@ -54,3 +54,8 @@
 ![](https://www.lexaloffle.com/bbs/thumbs/pico42427.png)
 
 [Picopolis](https://www.lexaloffle.com/bbs/?tid=29590)
+
+### Age of empires
+![](https://www.lexaloffle.com/bbs/thumbs/pico47949.png)
+
+[Pico Empires](https://www.lexaloffle.com/bbs/?tid=30453)
