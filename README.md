@@ -59,3 +59,8 @@
 ![](https://www.lexaloffle.com/bbs/thumbs/pico47949.png)
 
 [Pico Empires](https://www.lexaloffle.com/bbs/?tid=30453)
+
+### Out Run
+![](https://www.lexaloffle.com/bbs/thumbs/pico20068.png)
+
+[Pico Racer](https://www.lexaloffle.com/bbs/?tid=3198)
