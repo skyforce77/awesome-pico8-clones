@@ -42,6 +42,11 @@
 
 ## K
 
+### Kick off
+![](https://www.lexaloffle.com/bbs/thumbs/pico16555.png)
+
+[Succer](https://www.lexaloffle.com/bbs/?tid=2614)
+
 ## L
 
 ## M
