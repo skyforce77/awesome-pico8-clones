@@ -77,6 +77,11 @@
 
 [Pico-man](https://www.lexaloffle.com/bbs/?tid=2098)
 
+### Pokémon
+![](https://www.lexaloffle.com/bbs/thumbs/pico27211.png)
+
+![Pico Monsters](https://www.lexaloffle.com/bbs/?tid=4046)
+
 ### Pong
 ![](https://www.lexaloffle.com/bbs/thumbs/pico35843.png)
 
