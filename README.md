@@ -51,6 +51,11 @@
 
 [Bombmans](https://www.lexaloffle.com/bbs/?tid=2792)
 
+### Bubble Bobble
+![](https://www.lexaloffle.com/bbs/thumbs/pico49156.png)
+
+[Poppy](https://www.lexaloffle.com/bbs/?tid=30755)
+
 ## C
 
 ## D
