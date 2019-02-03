@@ -144,6 +144,11 @@
 
 [Pico Monsters](https://www.lexaloffle.com/bbs/?tid=4046)
 
+### Polarium
+![](https://www.lexaloffle.com/bbs/thumbs/pico54284.png)
+
+[Picolarium](https://www.lexaloffle.com/bbs/?tid=31179)
+
 ### Pong
 ![](https://www.lexaloffle.com/bbs/thumbs/pico35843.png)
 
